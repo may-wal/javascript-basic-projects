@@ -1,0 +1,60 @@
+DevOps is a set of practices, culture, and tools that bring software development (Dev) and IT operations (Ops) teams together.
+Its main goal is to deliver software faster, more reliably, and efficiently.
+
+Before DevOps, developers wrote code and passed it to operations teams to deploy and maintain. This caused delays, errors, and communication gaps.
+DevOps removes these barriers by promoting continuous collaboration and automation.
+
+✅ Why DevOps?
+
+Traditional software delivery was slow because:
+
+Manual processes caused delays.
+
+Miscommunication between Dev and Ops teams.
+
+Errors often appeared late in development.
+
+DevOps solves these problems by:
+
+Increasing automation
+
+Improving communication
+
+Ensuring faster releases
+
+✅ Key Principles of DevOps
+
+Collaboration & Communication
+Developers + Operations work together throughout the software lifecycle.
+
+Automation
+Automated testing, integration, deployment, and monitoring.
+
+Continuous Integration / Continuous Deployment (CI/CD)
+Code is integrated and deployed frequently to reduce risks.
+
+Monitoring & Feedback
+Systems are continuously monitored to improve quality.
+
+Incremental Improvements
+Small but frequent updates instead of big releases.
+
+✅ DevOps Lifecycle
+
+Plan → Requirements & objectives
+
+Develop → Coding
+
+Build → Compile code
+
+Test → Automated testing
+
+Release → Versioning & packaging
+
+Deploy → Push to production
+
+Operate → Manage & support
+
+Monitor → Track performance & issues
+
+This cycle repeats continuously to improve the product.
